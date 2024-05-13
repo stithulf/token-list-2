@@ -1,10 +1,10 @@
 {
   "name": "CoinMarketCap",
-  "timestamp": "2024-03-18T23:20:35.671Z",
+  "timestamp": "2024-05-13T23:21:01.470Z",
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 34
+    "patch": 35
   },
   "logoURI": "https://ipfs.io/ipfs/QmQAGtNJ2rSGpnP6dh6PPKNSmZL8RTZXmgFwgTdy5Nz5mx",
   "keywords": [
